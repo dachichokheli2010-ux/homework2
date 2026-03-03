@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function Header() {
   return (
-    <div>
+            <div className='header-component'>
         <header>
             <h2>home</h2>
             <h2>about</h2>
